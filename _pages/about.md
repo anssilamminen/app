@@ -3,32 +3,63 @@ permalink: /about/
 title: "About"
 ---
 
-# Otsikko 1
+# Heidi & Anssi
 
-## Otsikko 2
+Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.
 
-### Otsikko 3
-dfgfds
-dfsgf
-dfgdfsg
-dfgdfsg
-dfgdfs
-fgd
+## Ajankohta
 
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
+Pvm: 27.2.2021
+Klo: 14.00
+
+## Vihkiminen
+
+Kangasalan kirkko
+Ainontie 1
+36200 Kangasala
+
+## Vihkitilaisuuden jälkeinen hääjuhlapaikka
+
+Kangasalan pirtti
+Tapulintie 6
+36200 Kangasala –  <b> Mäki ylös kirkolta </b>
+
+## Yhteiskyytiä vailla?
+
+Yhteiskyyti Tampereen keskustasta paikasta X klo Y.
+
+## Tulossa omalla autolla?
+
+Parkkipaikkoja ympäriinsä, mm. paikassa Z
+
+# Hääinfo
+
+## Häiden ajankohta
+
+Häitä juhlitaan helmikuussa. …
+
+## Juhlapaikka
+
+Juhlimme häitä Kangasalan nuorisoseuran pirtillä, osoitteessa Tapulintie 6. Matka kirkolta juhlapaikalle on lyhyt, mutta mäkinen. Juhlapaikalla on rajallisesti paikoitustilaa
+
+## Juhlan ohjelmasta
+
+Vihkimisen jälkeen juhla jatkuu ruokailun, ohjelman ja elävän musiikin tahdissa. …
+
+## Muistaminen
+
+Yhteinen häätilimme FIXX XXXXX XXXXX
+
+## Majoitus
+
+Majoitusmahdollisuudet Tampereella, esim.: XXX ja YYY
+
+## Allergiat
+
+Ilmoitattehan ilmoittumisen yhteydessä mahdollisista allergioista.
+
+## Lisätiedot
+
+Maailmalla vallitsevan tilanteen takia päivitämme ajantasaiset tiedot hääjuhlastamme tälle sivustolle.
+
+<b> Täydennetään </b>
