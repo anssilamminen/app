@@ -3,7 +3,7 @@ permalink: /about/
 title: "Heidi & Anssi"
 ---
 
-Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.
+<span style="color:#B87333">Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.</span>
 
 **Ajankohta**
 
