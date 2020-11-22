@@ -1,8 +1,7 @@
 ---
-title: "27022021"
+title: "270221"
 layout: splash
 permalink: /home/
-author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,68 +9,68 @@ header:
   caption: "**@vilmakaura**"
 intro: 
   - excerpt: 'Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.  
+
+**Ajankohta**  
+
+**Pvm:** 27.2.2021
+
+**Klo:** 14.00
+
+## Vihkiminen
+
+**Kangasalan kirkko**  
   
-  **Ajankohta**  
-
-  **Pvm:** 27.2.2021
-
-  **Klo:** 14.00
-
-  ## Vihkiminen
-
-  **Kangasalan kirkko**  
+Ainontie 1  
   
-  Ainontie 1  
+36200 Kangasala
+
+## Vihkitilaisuuden jälkeinen hääjuhlapaikka
+
+**Kangasalan nuorisoseuran pirtti**  
   
-  36200 Kangasala
-
-  ## Vihkitilaisuuden jälkeinen hääjuhlapaikka
-
-  **Kangasalan nuorisoseuran pirtti**  
+Tapulintie 6  
   
-  Tapulintie 6  
-  
-  36200 Kangasala – **Mäki ylös kirkolta**
+36200 Kangasala – **Mäki ylös kirkolta**
 
-  ## Yhteiskyytiä vailla?
+## Yhteiskyytiä vailla?
 
-  Yhteiskyyti Tampereen keskustasta paikasta X klo Y.
+Yhteiskyyti Tampereen keskustasta paikasta X klo Y.
 
-  ## Tulossa omalla autolla?
+## Tulossa omalla autolla?
 
-  Parkkipaikkoja ympäriinsä, mm. paikassa Z
+Parkkipaikkoja ympäriinsä, mm. paikassa Z
 
-  # Hääinfo
+# Hääinfo
 
-  ## Häiden ajankohta
+## Häiden ajankohta
 
-  Häitä juhlitaan helmikuussa. …
+Häitä juhlitaan helmikuussa. …
 
-  ## Juhlapaikka
+## Juhlapaikka
 
-  Juhlimme häitä Kangasalan nuorisoseuran pirtillä, osoitteessa Tapulintie 6. Matka kirkolta juhlapaikalle on lyhyt, mutta mäkinen. Juhlapaikalla on rajallisesti paikoitustilaa.
+Juhlimme häitä Kangasalan nuorisoseuran pirtillä, osoitteessa Tapulintie 6. Matka kirkolta juhlapaikalle on lyhyt, mutta mäkinen. Juhlapaikalla on rajallisesti paikoitustilaa.
 
-  ## Juhlan ohjelmasta
+## Juhlan ohjelmasta
 
-  Vihkimisen jälkeen juhla jatkuu ruokailun, ohjelman ja elävän musiikin tahdissa. …
+Vihkimisen jälkeen juhla jatkuu ruokailun, ohjelman ja elävän musiikin tahdissa. …
 
-  ## Muistaminen
+## Muistaminen
 
-  Yhteinen häätilimme FIXX XXXXX XXXXX
+Yhteinen häätilimme FIXX XXXXX XXXXX
 
-  ## Majoitus
+## Majoitus
 
-  Majoitusmahdollisuudet Tampereella, esim.: XXX ja YYY
+Majoitusmahdollisuudet Tampereella, esim.: XXX ja YYY
 
-  ## Allergiat
+## Allergiat
 
-  Ilmoitattehan ilmoittumisen yhteydessä mahdollisista allergioista.
+Ilmoitattehan ilmoittumisen yhteydessä mahdollisista allergioista.
 
-  ## Lisätiedot
+## Lisätiedot
 
-  Maailmalla vallitsevan tilanteen takia päivitämme ajantasaiset tiedot hääjuhlastamme tälle sivustolle.
+Maailmalla vallitsevan tilanteen takia päivitämme ajantasaiset tiedot hääjuhlastamme tälle sivustolle.
 
-  **Täydennetään**'
+**Täydennetään**'
 
 ---
 
