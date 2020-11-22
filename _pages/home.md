@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/31-Heidi ja Anssi-31 – kopio.jpg
+  overlay_image: /assets/images/HjaA-iso.jpg
   caption: "**@vilmakaura**"
 intro: 
   - excerpt: 'Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.'
