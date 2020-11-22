@@ -17,8 +17,8 @@ title: Heidi & Anssi
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Heidi & Anssi 27.02.2021
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: dirt
+search: false
 
 # Build settings
 markdown: kramdown
@@ -54,9 +54,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Heidi & Anssi"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "27022021"
+  name      : "Heidi & Anssi"
+  avatar    : "/assets/images/bio-photo.jpg"
+  bio       : "27.2.2021"
+  location  : "Kangasala"
 
 footer:
   
