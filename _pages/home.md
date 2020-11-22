@@ -17,20 +17,20 @@ intro:
 
   **Klo:** 14.00
 
-  ------
-
   ## Vihkiminen
 
-  **Kangasalan kirkko**
-
+  **Kangasalan kirkko**  
+  
   Ainontie 1  
+  
   36200 Kangasala
 
   ## Vihkitilaisuuden jälkeinen hääjuhlapaikka
 
-  **Kangasalan nuorisoseuran pirtti**
-
+  **Kangasalan nuorisoseuran pirtti**  
+  
   Tapulintie 6  
+  
   36200 Kangasala – **Mäki ylös kirkolta**
 
   ## Yhteiskyytiä vailla?
