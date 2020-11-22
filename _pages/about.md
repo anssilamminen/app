@@ -5,27 +5,27 @@ title: "Heidi & Anssi"
 
 Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.
 
-** Ajankohta **
+**Ajankohta**
 
-** Pvm: ** 27.2.2021
+**Pvm:** 27.2.2021
 
-** Klo: ** 14.00
+**Klo:** 14.00
 
 ****
 
 ## Vihkiminen
 
-** Kangasalan kirkko **
+**Kangasalan kirkko**
 
 Ainontie 1  
 36200 Kangasala
 
 ## Vihkitilaisuuden jälkeinen hääjuhlapaikka
 
-** Kangasalan nuorisoseuran pirtti **
+**Kangasalan nuorisoseuran pirtti**
 
 Tapulintie 6  
-36200 Kangasala – ** Mäki ylös kirkolta **
+36200 Kangasala – **Mäki ylös kirkolta**
 
 ## Yhteiskyytiä vailla?
 
@@ -65,4 +65,4 @@ Ilmoitattehan ilmoittumisen yhteydessä mahdollisista allergioista.
 
 Maailmalla vallitsevan tilanteen takia päivitämme ajantasaiset tiedot hääjuhlastamme tälle sivustolle.
 
-** Täydennetään **
+**Täydennetään**
