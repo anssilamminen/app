@@ -8,19 +8,23 @@ Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hää
 <b> Ajankohta </b>
 
 <b> Pvm: </b> 27.2.2021
+
 <b> Klo: </b> 14.00
 
 ## Vihkiminen
 
 <b> Kangasalan kirkko </b>
+
 Ainontie 1
 36200 Kangasala
 
 ## Vihkitilaisuuden jälkeinen hääjuhlapaikka
 
 <b> Kangasalan pirtti </b>
+
 Tapulintie 6
-36200 Kangasala –  <b> Mäki ylös kirkolta </b>
+36200 Kangasala – 
+<b> Mäki ylös kirkolta </b>
 
 ## Yhteiskyytiä vailla?
 
