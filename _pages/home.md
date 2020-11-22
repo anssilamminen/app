@@ -17,7 +17,7 @@ intro:
 
   **Klo:** 14.00
 
-  ****
+  ------
 
   ## Vihkiminen
 
