@@ -6,12 +6,12 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/HjaA-levee.jpg
+  overlay_image: /assets/images/HjaA-levee2.jpg
   caption: "**@vilmakaura**"
 intro: 
   - excerpt: 'Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.  
   
-  **Ajankohta**
+  **Ajankohta**  
 
   **Pvm:** 27.2.2021
 
