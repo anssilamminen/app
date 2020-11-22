@@ -4,7 +4,7 @@ layout: splash
 permalink: /home/
 header:
   overlay_color: "#B87333"
-  overlay_filter: "0.5"
+  overlay_filter: "1.0"
   overlay_image: /assets/images/HjaA-levee2.jpg
   caption: "**@vilmakaura**"
 intro: 
