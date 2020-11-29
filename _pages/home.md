@@ -8,10 +8,9 @@ header:
   overlay_image: /assets/images/HjaA-levee2.jpg
   caption: "**@vilmakaura**"
 intro: 
-  - excerpt: 'Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.'
+  - excerpt: 'Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.
   
-content:
-  - excerpt: '**Ajankohta**  
+  **Ajankohta**  
 
   **Pvm:** 27.2.2021
 
@@ -72,8 +71,5 @@ content:
   Maailmalla vallitsevan tilanteen takia päivitämme ajantasaiset tiedot hääjuhlastamme tälle sivustolle.
 
   **Täydennetään**'
----
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="content" type="center %}
