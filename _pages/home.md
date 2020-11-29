@@ -74,7 +74,7 @@ Ilmoitattehan ilmoittumisen yhteydessä mahdollisista allergioista.
 
 Maailmalla vallitsevan tilanteen takia päivitämme ajantasaiset tiedot hääjuhlastamme tälle sivustolle.
 
-**Täydennetään**'
+**Täydennetään**
 
 -----
 
