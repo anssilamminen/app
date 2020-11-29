@@ -3,8 +3,6 @@ title: "Tulossa pian"
 layout: default
 ---
 
-<span style="color:#B87333">Tervetuloa meidän sivuille! Sivusto julkaistaan pian.</span>
-
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -19,6 +17,8 @@ layout: default
 
 <div id="main" role="main">
   {% include sidebar.html %}
+  
+  <span style="color:#B87333">Tervetuloa meidän sivuille! Sivusto julkaistaan pian.</span>
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
