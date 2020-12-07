@@ -10,7 +10,7 @@ header:
 intro: 
   - excerpt: 'Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.
 
-  ## Vihkiminen  
+  # Vihkiminen  
     
   **Pvm:** 27.2.2021<br>  
   **Klo:** 14.00<br>  
@@ -18,23 +18,15 @@ intro:
   Ainontie 1<br>  
   36200 Kangasala
 
-  ## Vihkitilaisuuden jälkeinen hääjuhlapaikka
+  # Vihkitilaisuuden jälkeinen hääjuhlapaikka
 
   **Kangasalan nuorisoseuran pirtti**<br>  
   Tapulintie 6<br>  
   36200 Kangasala<br>
   **Mäki ylös kirkolta**
-
-  ## Yhteiskyytiä vailla?
-
-  Yhteiskyyti Tampereen keskustasta paikasta X klo 13.
-
-  ## Tulossa omalla autolla?
-
-  Juhlapaikan pihapiirissä on rajallinen määrä pysäköintitilaa
-
+  
   # Hääinfo
-
+  
   ## Häiden ajankohta
 
   Hääjuhlaamme vietetään helmikuun 27. päivänä 2021, mikäli olosuhteet sen sallivat. Tiedotamme mahdollisista muutoksista juhlapäivän lähestyessä.
@@ -43,9 +35,17 @@ intro:
 
   Juhlimme häitä Kangasalan nuorisoseuran pirtillä, osoitteessa Tapulintie 6. Matka kirkolta juhlapaikalle on lyhyt, vain noin 200 metriä. Juhlapaikalla on rajallisesti paikoitustilaa.
 
+  ## Yhteiskyytiä vailla?
+
+  Järjestämämme yhteiskyyti lähtee Tampereen keskustasta paikasta X klo 13. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä.
+
+  ## Tulossa omalla autolla?
+
+  Juhlapaikan pihapiirissä on rajallinen määrä pysäköintitilaa. **TÄHÄN KUVA KARTASTA**
+
   ## Juhlan ohjelmasta
 
-  Vihkimisen jälkeen juhla jatkuu ruokailun, ohjelman, yhdessäolon sekä elävän musiikin tahdissa.
+  Vihkimisen jälkeen juhla jatkuu hyvän ruoan, mukavan ohjelman, maittavan kahvin, leppoisan yhdessäolon sekä elävän musiikin merkeissä.
 
   ## Muistaminen
 
@@ -56,9 +56,9 @@ intro:
 
   Mikäli olette vailla majoitusta, Tampereella on monia hyviä hotelleja. Kuljetuksen lähtö- ja paluupaikan lähistöllä sijaitsevat esimerkiksi Scandic XXX ja Sokos Hotel YYY.
 
-  ## Allergiat
+  ## Erityisruokavaliot
 
-  Ilmoitattehan ilmoittumisen yhteydessä mahdollisista allergioista.
+  Ilmoitattehan ilmoittautumisen yhteydessä mahdolliset erityisruokavaliot.
 
   ## Lisätiedot
 
