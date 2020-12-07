@@ -45,11 +45,12 @@ intro:
 
   ## Juhlan ohjelmasta
 
-  Vihkimisen jälkeen juhla jatkuu ruokailun, ohjelman ja elävän musiikin tahdissa. …
+  Vihkimisen jälkeen juhla jatkuu ruokailun, ohjelman, yhdessäolon sekä elävän musiikin tahdissa.
 
   ## Muistaminen
 
-  Meille tärkeintä on, että pääsette juhlimaan kanssamme. Mikäli haluatte muistaa meitä, toivomme tavaralahjan sijasta muistamista yhteiselle häätilillemme FI49 5403 0720 1167 16
+  Meille tärkeintä on, että pääsette juhlimaan kanssamme. Mikäli haluatte muistaa meitä, toivomme tavaralahjan sijasta muistamista yhteiselle häätilillemme  
+  FI49 5403 0720 1167 16
 
   ## Majoitus
 
