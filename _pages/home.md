@@ -8,15 +8,15 @@ header:
   overlay_image: /assets/images/HjaA-levee2.jpg
   caption: "**@vilmakaura**"
 intro: 
-  - excerpt: '<span style="color:#B87333"> Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen. </span>
+  - excerpt: '<span style="color:#B87333"> **Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.** </span>
 
   # Vihkiminen  
     
-  **Pvm:** 27.2.2021<br>  
-  **Klo:** 14.00<br>  
+  **Pvm:** <span style="color:#B87333">27.2.2021</span><br>  
+  **Klo:** <span style="color:#B87333">14.00</span><br>  
   **Kangasalan kirkko**<br>  
-  Ainontie 1<br>  
-  36200 Kangasala
+  <span style="color:#B87333">Ainontie 1</span><br>  
+  <span style="color:#B87333">36200 Kangasala</span>
 
   # Vihkitilaisuuden jälkeinen hääjuhlapaikka
 
