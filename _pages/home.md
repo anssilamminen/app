@@ -9,7 +9,9 @@ header:
   caption: "**@vilmakaura**"
 intro: 
   - excerpt: '<span style="color:#B87333"> **Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.** </span>
-
+  
+  -------------
+  
   # Vihkiminen
     
   **Pvm:** <span style="color:#B87333">27.2.2021</span><br>  
@@ -17,13 +19,17 @@ intro:
   **Kangasalan kirkko**<br>  
   <span style="color:#B87333">Ainontie 1</span><br>  
   <span style="color:#B87333">36200 Kangasala</span>
-
+  
+  ------------
+  
   # Vihkitilaisuuden jälkeinen hääjuhlapaikka
 
   **Kangasalan nuorisoseuran pirtti**<br>  
   <span style="color:#B87333">Tapulintie 6</span><br>  
   <span style="color:#B87333">36200 Kangasala</span><br>
   **Mäki ylös kirkolta**
+  
+  ------------
   
   # Hääinfo
   
