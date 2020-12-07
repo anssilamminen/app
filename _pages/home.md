@@ -49,12 +49,12 @@ intro:
 
   ## Muistaminen
 
-  Meille tärkeintä on, että pääsette juhlimaan kanssamme. Mikäli haluatte muistaa meitä, toivomme tavaralahjan sijasta muistamista yhteiselle häätilillemme  
+  Meille tärkeintä on, että pääsette juhlimaan kanssamme. Mikäli haluatte muistaa meitä, toivomme tavaralahjan sijasta muistamista yhteiselle häätilillemme<br>
   FI49 5403 0720 1167 16
 
   ## Majoitus
 
-  Mikäli olette vailla majoitusta, Tampereella on monia hyviä hotelleja. Kuljetuksen lähtöpaikan lähistöllä sijaitsevat esimerkiksi Scandic XXX ja Sokos Hotel YYY.
+  Mikäli olette vailla majoitusta, Tampereella on monia hyviä hotelleja. Kuljetuksen lähtö- ja paluupaikan lähistöllä sijaitsevat esimerkiksi Scandic XXX ja Sokos Hotel YYY.
 
   ## Allergiat
 
