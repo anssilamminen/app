@@ -18,7 +18,7 @@ intro:
   **Klo:** <span style="color:#B87333">14.00</span><br>  
   **Kangasalan kirkko**<br>  
   <span style="color:#B87333">Ainontie 1</span><br>  
-  <span style="color:#B87333">36200 Kangasala</span>
+  <span style="color:#B87333">36200 Kangasala</span><br>
   
   ------------
   
@@ -27,7 +27,7 @@ intro:
   **Kangasalan nuorisoseuran pirtti**<br>  
   <span style="color:#B87333">Tapulintie 6</span><br>  
   <span style="color:#B87333">36200 Kangasala</span><br>
-  **Mäki ylös kirkolta**
+  **Mäki ylös kirkolta**<br>
   
   ------------
   
