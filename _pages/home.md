@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/HjaA-levee2.jpg
   caption: "**@vilmakaura**"
 intro: 
-  - excerpt: '<span style="color:#B87333"> **Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.** </span>
+  - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.**</span>
   
   -------------
   
@@ -19,18 +19,18 @@ intro:
   **Kangasalan kirkko**<br>  
   <span style="color:#B87333">Ainontie 1</span><br>  
   <span style="color:#B87333">36200 Kangasala</span><br>
-  <br>
+
   ------------
-  <br>
+
   # Vihkitilaisuuden jälkeinen hääjuhlapaikka
 
-  **Kangasalan nuorisoseuran pirtti**<br>  
-  <span style="color:#B87333">Tapulintie 6</span><br>  
+  **Kangasalan nuorisoseuran pirtti**<br>
+  <span style="color:#B87333">Tapulintie 6</span><br>
   <span style="color:#B87333">36200 Kangasala</span><br>
   **Mäki ylös kirkolta**<br>
-  <br>
+
   ------------
-  <br>
+
   # Hääinfo
   
   ## Häiden ajankohta
