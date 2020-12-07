@@ -10,7 +10,8 @@ header:
 intro: 
   - excerpt: 'Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.
 
-  ## Vihkiminen
+  ## Vihkiminen  
+    
   **Pvm:** 27.2.2021<br>  
   **Klo:** 14.00<br>  
   **Kangasalan kirkko**<br>  
