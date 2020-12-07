@@ -20,29 +20,28 @@ intro:
 
   ## Vihkitilaisuuden jälkeinen hääjuhlapaikka
 
-  **Kangasalan nuorisoseuran pirtti**  
-  
-  Tapulintie 6  
-  
-  36200 Kangasala – **Mäki ylös kirkolta**
+  **Kangasalan nuorisoseuran pirtti**<br>  
+  Tapulintie 6<br>  
+  36200 Kangasala<br>
+  **Mäki ylös kirkolta**
 
   ## Yhteiskyytiä vailla?
 
-  Yhteiskyyti Tampereen keskustasta paikasta X klo Y.
+  Yhteiskyyti Tampereen keskustasta paikasta X klo 13.
 
   ## Tulossa omalla autolla?
 
-  Parkkipaikkoja ympäriinsä, mm. paikassa Z
+  Juhlapaikan pihapiirissä on rajallinen määrä pysäköintitilaa
 
   # Hääinfo
 
   ## Häiden ajankohta
 
-  Häitä juhlitaan helmikuussa. …
+  Hääjuhlaamme vietetään helmikuun 27. päivänä 2021, mikäli olosuhteet sen sallivat. Tiedotamme mahdollisista muutoksista juhlapäivän lähestyessä.
 
   ## Juhlapaikka
 
-  Juhlimme häitä Kangasalan nuorisoseuran pirtillä, osoitteessa Tapulintie 6. Matka kirkolta juhlapaikalle on lyhyt, mutta mäkinen. Juhlapaikalla on rajallisesti paikoitustilaa.
+  Juhlimme häitä Kangasalan nuorisoseuran pirtillä, osoitteessa Tapulintie 6. Matka kirkolta juhlapaikalle on lyhyt, vain noin 200 metriä. Juhlapaikalla on rajallisesti paikoitustilaa.
 
   ## Juhlan ohjelmasta
 
@@ -50,11 +49,11 @@ intro:
 
   ## Muistaminen
 
-  Yhteinen häätilimme FIXX XXXXX XXXXX
+  Meille tärkeintä on, että pääsette juhlimaan kanssamme. Mikäli haluatte muistaa meitä, toivomme tavaralahjan sijasta muistamista yhteiselle häätilillemme FI49 5403 0720 1167 16
 
   ## Majoitus
 
-  Majoitusmahdollisuudet Tampereella, esim.: XXX ja YYY
+  Mikäli olette vailla majoitusta, Tampereella on monia hyviä hotelleja. Kuljetuksen lähtöpaikan lähistöllä sijaitsevat esimerkiksi Scandic XXX ja Sokos Hotel YYY.
 
   ## Allergiat
 
