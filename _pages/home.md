@@ -46,6 +46,8 @@ intro:
   <span style="color:#B87333">Juhlapaikan pihapiirissä on rajallinen määrä pysäköintitilaa.</span><br>
   <br>
   **TÄHÄN KUVA KARTASTA**
+    
+  [![Kartta](/assets/images/2020_12_13_Map.jpg "Kartta")](https://goo.gl/maps/9xy6chAvV9M9UFrn8)
 
   ## Juhlan ohjelmasta
 
