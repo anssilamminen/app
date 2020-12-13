@@ -27,7 +27,6 @@ intro:
   <span style="color:#B87333">36200 Kangasala</span><br>
   **Mäki ylös kirkolta**<br>
 
-  ------
 
   # Hääinfo
   
@@ -66,6 +65,11 @@ intro:
   ## Erityisruokavaliot
 
   <span style="color:#B87333">Ilmoitattehan ilmoittautumisen yhteydessä mahdolliset erityisruokavaliot.</span>
+  
+  ## Ilmoittautuminen
+  
+  <span style="color:#B87333">Ilmoitattehan osallistumisenne juhlaamme 31.1.2021 mennessä.<br>
+  Heidi 050 301 4631 / Anssi 050 361 2658</span>
 
   ## Lisätiedot
 
