@@ -27,6 +27,8 @@ intro:
   <span style="color:#B87333">36200 Kangasala</span><br>
   **Mäki ylös kirkolta**<br>
 
+------
+
   # Hääinfo
   
   ## Häiden ajankohta
@@ -39,14 +41,13 @@ intro:
 
   ## Yhteiskyytiä vailla?
 
-  <span style="color:#B87333">Järjestämämme yhteiskyyti lähtee Tampereen keskustasta paikasta X klo 13. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä.</span>
+  <span style="color:#B87333">Järjestämämme yhteiskyyti lähtee Tampereen keskustasta klo 13. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä. Yhteiskuljetukseen ilmoittautuneille ilmoitetaan kuljetuksen tarkempi lähtöpaikka yksityiskohtien varmistuttua.</span>
 
   ## Tulossa omalla autolla?
 
-  <span style="color:#B87333">Juhlapaikan pihapiirissä on rajallinen määrä pysäköintitilaa.</span><br>
+  <span style="color:#B87333">Sekä kirkon että juhlapaikan pysäköintialueilla on rajallinen määrä pysäköintitilaa.</span><br>
   <br>
-  **TÄHÄN KUVA KARTASTA**
-    
+      
   [![Kartta](/assets/images/2020_12_13_Map.jpg "Kartta")](https://goo.gl/maps/9xy6chAvV9M9UFrn8)
 
   ## Juhlan ohjelmasta
@@ -68,9 +69,8 @@ intro:
 
   ## Lisätiedot
 
-  <span style="color:#B87333">Maailmalla vallitsevan tilanteen takia päivitämme ajantasaiset tiedot hääjuhlastamme tälle sivustolle.</span><br>
-
-  **Täydennetään**'
+  <span style="color:#B87333">Maailmalla vallitsevan tilanteen takia päivitämme ajantasaiset tiedot hääjuhlastamme tälle sivustolle.</span><br>'
+  
 ---
 
 {% include feature_row id="intro" type="center" %}
