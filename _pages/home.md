@@ -27,7 +27,7 @@ intro:
   <span style="color:#B87333">36200 Kangasala</span><br>
   **Mäki ylös kirkolta**<br>
 
-------
+  ------
 
   # Hääinfo
   
