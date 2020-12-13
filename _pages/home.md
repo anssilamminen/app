@@ -1,5 +1,5 @@
 ---
-title: "270221"
+title: "H & A"
 layout: splash
 permalink: /home/
 header:
@@ -8,12 +8,11 @@ header:
   overlay_image: /assets/images/HjaA-levee2.jpg
   caption: "**@vilmakaura**"
 intro: 
-  - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.**</span>
+  - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen tiedon hääjuhlaamme liittyen.**</span>'
+
+aikataulu:
+  - excerpt: '## Vihkiminen
   
-  -------------
-  
-  ## Vihkiminen
-    
   **Pvm:** <span style="color:#B87333">27.2.2021</span><br>  
   **Klo:** <span style="color:#B87333">14.00</span><br>  
   **Kangasalan kirkko**<br>  
@@ -25,10 +24,10 @@ intro:
   **Kangasalan nuorisoseuran pirtti**<br>
   <span style="color:#B87333">Tapulintie 6</span><br>
   <span style="color:#B87333">36200 Kangasala</span><br>
-  **Mäki ylös kirkolta**<br>
+  **Mäki ylös kirkolta**'
 
-
-  # Hääinfo
+haainfo:
+  - excerpt: '# Hääinfo
   
   ## Häiden ajankohta
 
@@ -78,3 +77,5 @@ intro:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="aikataulu" type="center" %}
+{% include feature_row id="haainfo" type="center" %}
