@@ -39,7 +39,7 @@ haainfo:
 
   ## Yhteiskyytiä vailla?
 
-  <span style="color:#B87333">Järjestämämme yhteiskyyti lähtee Tampereen keskustasta klo 13. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä. Yhteiskuljetukseen ilmoittautuneille ilmoitetaan kuljetuksen tarkempi lähtöpaikka yksityiskohtien varmistuttua.</span>
+  <span style="color:#B87333">Järjestämämme yhteiskyyti lähtee Tampereen keskustasta Rautatieaseman lähistöltä klo 13. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä. Yhteiskuljetukseen ilmoittautuneille ilmoitetaan kuljetuksen tarkempi lähtöpaikka yksityiskohtien varmistuttua.</span>
 
   ## Tulossa omalla autolla?
 
@@ -59,7 +59,7 @@ haainfo:
 
   ## Majoitus
 
-  <span style="color:#B87333">Mikäli olette vailla majoitusta, Tampereella on monia hyviä hotelleja. Kuljetuksen lähtö- ja paluupaikan lähistöllä sijaitsevat esimerkiksi Scandic XXX ja Sokos Hotel YYY.</span>
+  <span style="color:#B87333">Mikäli olette vailla majoitusta, Tampereella on monia hyviä hotelleja. Kuljetuksen lähtö- ja paluupaikan lähistöllä sijaitsevat esimerkiksi Scandic Tampere Station ja Sokos Hotel Torni Tampere.</span>
 
   ## Erityisruokavaliot
 
