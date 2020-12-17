@@ -1,7 +1,6 @@
 ---
 title: "H & A"
 layout: splash
-permalink: /home/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
