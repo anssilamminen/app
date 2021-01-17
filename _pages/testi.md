@@ -9,6 +9,9 @@ header:
   caption: "**@vilmakaura**"
 intro: 
   - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
+  
+edit:
+  - excerpt: '[![Kartta](/assets/images/2020_12_13_Map.jpg "Kartta")]'
 
 aikataulu:
   - excerpt: '## Vihkiminen
@@ -77,7 +80,7 @@ haainfo:
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include gif /assets/images/Kutsu-GIF.gif %}
+{% include feature_row id="edit" type="center" %}
 {% include feature_row id="aikataulu" type="center" %}
 {% include feature_row id="haainfo" type="center" %}
 
