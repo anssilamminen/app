@@ -86,7 +86,7 @@ haainfo:
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="edit" type="center" class="notice--warning" %}
+{% include feature_row id="edit" type="center" class="warning" %}
 {% include feature_row id="aikataulu" type="center" %}
 {% include feature_row id="haainfo" type="center" %}
 
