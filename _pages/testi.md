@@ -11,7 +11,7 @@ intro:
   - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
   
 edit:
-  - excerpt: '[![Kutsu](/assets/images/Kutsu-GIF.gif "Kutsu")]'
+  - excerpt: '![Kutsu](/assets/images/Kutsu-GIF.gif "Kutsu")'
 
 aikataulu:
   - excerpt: '## Vihkiminen
