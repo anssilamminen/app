@@ -52,6 +52,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - gif_tag
 
 author:
   name      : "Heidi & Anssi"
