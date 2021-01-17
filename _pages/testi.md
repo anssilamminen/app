@@ -77,7 +77,7 @@ haainfo:
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% gif /assets/images/Kutsu-GIF.gif %}
+{% include gif /assets/images/Kutsu-GIF.gif %}
 {% include feature_row id="aikataulu" type="center" %}
 {% include feature_row id="haainfo" type="center" %}
 
