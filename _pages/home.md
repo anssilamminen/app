@@ -9,11 +9,19 @@ header:
   caption: "**@vilmakaura**"
 intro: 
   - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
+  
+edit:
+  - excerpt: '<p class="notice--warning"><strong> Vallitsevasta tilanteesta johtuen olemme tehneet päätöksen siirtää juhlamme ajankohtaa. <br>
+  <br>
+  Uusi ajankohta juhlallemme on syyskuun 18. päivä 2021. Juhlan aikataulu sekä paikka säilyvät alkuperäisen suunnitelman mukaisina.<br>
+  <br>
+  Koska kutsut ovat jo painettuna ja vain päivämäärä muuttuu, lähetämme uuden kutsun ohessa virtuaalisena.</strong></p>    
+  ![Kutsu](/assets/images/Kutsu-GIF.gif "Kutsu")'
 
 aikataulu:
   - excerpt: '## Vihkiminen
   
-  **Pvm:** <span style="color:#B87333">27.2.2021</span><br>  
+  **Pvm:** <span style="color:#B87333">18.9.2021</span><br>  
   **Klo:** <span style="color:#B87333">14.00</span><br>  
   **Kangasalan kirkko**<br>  
   <span style="color:#B87333">Ainontie 1</span><br>  
@@ -31,7 +39,7 @@ haainfo:
   
   ## Häiden ajankohta
 
-  <span style="color:#B87333">Hääjuhlaamme vietetään helmikuun 27. päivänä 2021, mikäli olosuhteet sen sallivat. Tiedotamme mahdollisista muutoksista juhlapäivän lähestyessä.</span>
+  <span style="color:#B87333">Hääjuhlaamme vietetään syyskuun 18. päivänä 2021, mikäli olosuhteet sen sallivat. Tiedotamme mahdollisista muutoksista juhlapäivän lähestyessä.</span>
 
   ## Juhlapaikka
 
@@ -67,7 +75,7 @@ haainfo:
   
   ## Ilmoittautuminen
   
-  <span style="color:#B87333">Ilmoitattehan osallistumisenne juhlaamme 31.1.2021 mennessä.<br>
+  <span style="color:#B87333">Ilmoitattehan osallistumisenne juhlaamme 15.8.2021 mennessä.<br>
   Heidi 050 301 4631 / Anssi 050 361 2658</span>
 
   ## Lisätiedot
@@ -77,5 +85,7 @@ haainfo:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="edit" type="center" %}
 {% include feature_row id="aikataulu" type="center" %}
 {% include feature_row id="haainfo" type="center" %}
+
