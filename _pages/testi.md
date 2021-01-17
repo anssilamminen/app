@@ -11,11 +11,11 @@ intro:
   - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
   
 edit:
-  - excerpt: 'Vallitsevasta tilanteesta johtuen olemme tehneet päätöksen siirtää juhlamme ajankohtaa. <br>
+  - excerpt: '[Vallitsevasta tilanteesta johtuen olemme tehneet päätöksen siirtää juhlamme ajankohtaa. <br>
   <br>
   Uusi ajankohta juhlallemme on syyskuun 18. päivä 2021. Juhlan aikataulu sekä paikka säilyvät alkuperäisen suunnitelman mukaisina.<br>
   <br>
-  Koska kutsut ovat jo painettuna ja vain päivämäärä muuttuu, lähetämme uuden kutsun ohessa virtuaalisena.<br>
+  Koska kutsut ovat jo painettuna ja vain päivämäärä muuttuu, lähetämme uuden kutsun ohessa virtuaalisena.] {: .notice--warning}<br>
   <br>
   ![Kutsu](/assets/images/Kutsu-GIF.gif "Kutsu")'
 
@@ -86,7 +86,7 @@ haainfo:
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="edit" type="center" class="warning" %}
+{% include feature_row id="edit" type="center" %}
 {% include feature_row id="aikataulu" type="center" %}
 {% include feature_row id="haainfo" type="center" %}
 
