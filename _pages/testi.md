@@ -8,8 +8,7 @@ header:
   overlay_image: /assets/images/HjaA-levee2.jpg
   caption: "**@vilmakaura**"
 intro: 
-  - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span><br><br>
-  {% gif /assets/images/Kutsu-GIF.gif %}'
+  - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
 
 aikataulu:
   - excerpt: '## Vihkiminen
@@ -78,6 +77,7 @@ haainfo:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% gif /assets/images/Kutsu-GIF.gif %}
 {% include feature_row id="aikataulu" type="center" %}
 {% include feature_row id="haainfo" type="center" %}
 
