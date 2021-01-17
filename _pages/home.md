@@ -11,7 +11,9 @@ intro:
   - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
   
 edit:
-  - excerpt: '<p class="notice--warning"><strong> Vallitsevasta tilanteesta johtuen olemme tehneet päätöksen siirtää juhlamme ajankohtaa. <br>
+  - excerpt: '<p class="notice--warning"><strong>17.1.2021<br>
+  <br>
+  Vallitsevasta epidemiatilanteesta johtuen olemme päättäneet siirtää juhlamme ajankohtaa.<br>
   <br>
   Uusi ajankohta juhlallemme on syyskuun 18. päivä 2021. Juhlan aikataulu sekä paikka säilyvät alkuperäisen suunnitelman mukaisina.<br>
   <br>
