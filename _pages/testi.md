@@ -1,1 +1,82 @@
+---
+title: "H & A"
+layout: splash
+permalink: /testi
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/HjaA-levee2.jpg
+  caption: "**@vilmakaura**"
+intro: 
+  - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
+
+aikataulu:
+  - excerpt: '## Vihkiminen
+  
+  **Pvm:** <span style="color:#B87333">18.9.2021</span><br>  
+  **Klo:** <span style="color:#B87333">14.00</span><br>  
+  **Kangasalan kirkko**<br>  
+  <span style="color:#B87333">Ainontie 1</span><br>  
+  <span style="color:#B87333">36200 Kangasala</span><br>
+
+  ## Vihkitilaisuuden jälkeinen hääjuhlapaikka
+
+  **Kangasalan nuorisoseuran pirtti**<br>
+  <span style="color:#B87333">Tapulintie 6</span><br>
+  <span style="color:#B87333">36200 Kangasala</span><br>
+  **Mäki ylös kirkolta**'
+
+haainfo:
+  - excerpt: '# Hääinfo
+  
+  ## Häiden ajankohta
+
+  <span style="color:#B87333">Hääjuhlaamme vietetään syyskuun 18. päivänä 2021, mikäli olosuhteet sen sallivat. Tiedotamme mahdollisista muutoksista juhlapäivän lähestyessä.</span>
+
+  ## Juhlapaikka
+
+  <span style="color:#B87333">Juhlimme häitä Kangasalan nuorisoseuran pirtillä, osoitteessa Tapulintie 6. Matka kirkolta juhlapaikalle on lyhyt, vain noin 200 metriä. Juhlapaikalla on rajallisesti paikoitustilaa.</span>
+
+  ## Yhteiskyytiä vailla?
+
+  <span style="color:#B87333">Järjestämämme yhteiskyyti lähtee Tampereen keskustasta Rautatieaseman lähistöltä klo 13. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä. Yhteiskuljetukseen ilmoittautuneille ilmoitetaan kuljetuksen tarkempi lähtöpaikka yksityiskohtien varmistuttua.</span>
+
+  ## Tulossa omalla autolla?
+
+  <span style="color:#B87333">Sekä kirkon että juhlapaikan pysäköintialueilla on rajallinen määrä pysäköintitilaa.</span><br>
+  <br>
+      
+  [![Kartta](/assets/images/2020_12_13_Map.jpg "Kartta")](https://goo.gl/maps/9xy6chAvV9M9UFrn8)
+
+  ## Juhlan ohjelmasta
+
+  <span style="color:#B87333">Vihkimisen jälkeen juhla jatkuu hyvän ruoan, mukavan ohjelman, maittavan kahvin, leppoisan yhdessäolon sekä elävän musiikin merkeissä.</span>
+
+  ## Muistaminen
+
+  <span style="color:#B87333">Meille tärkeintä on, että pääsette juhlimaan kanssamme. Mikäli haluatte muistaa meitä, toivomme tavaralahjan sijasta muistamista yhteiselle häätilillemme<br>
+  FI49 5403 0720 1167 16</span>
+
+  ## Majoitus
+
+  <span style="color:#B87333">Mikäli olette vailla majoitusta, Tampereella on monia hyviä hotelleja. Kuljetuksen lähtö- ja paluupaikan lähistöllä sijaitsevat esimerkiksi Scandic Tampere Station ja Sokos Hotel Torni Tampere.</span>
+
+  ## Erityisruokavaliot
+
+  <span style="color:#B87333">Ilmoitattehan ilmoittautumisen yhteydessä mahdolliset erityisruokavaliot.</span>
+  
+  ## Ilmoittautuminen
+  
+  <span style="color:#B87333">Ilmoitattehan osallistumisenne juhlaamme 31.1.2021 mennessä.<br>
+  Heidi 050 301 4631 / Anssi 050 361 2658</span>
+
+  ## Lisätiedot
+
+  <span style="color:#B87333">Maailmalla vallitsevan tilanteen takia päivitämme ajantasaiset tiedot hääjuhlastamme tälle sivustolle.</span><br>'
+  
+---
+
+{% include feature_row id="intro" type="center" %}
+{% include feature_row id="aikataulu" type="center" %}
+{% include feature_row id="haainfo" type="center" %}
 
