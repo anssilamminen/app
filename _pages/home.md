@@ -77,7 +77,7 @@ haainfo:
   
   ## Ilmoittautuminen
   
-  <span style="color:#B87333">Ilmoitattehan osallistumisenne juhlaamme 15.8.2021 mennessä.<br>
+  <span style="color:#B87333">Ilmoitattehan osallistumisenne juhlaamme 29.8.2021 mennessä.<br>
   Heidi 050 301 4631 / Anssi 050 361 2658</span>
 
   ## Lisätiedot
