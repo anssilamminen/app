@@ -10,7 +10,7 @@ header:
 intro: 
   - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
 
-edit:
+edit2:
   - excerpt: '<p class="notice--warning"><strong>12.7.2021<br>
   <br>
   Lisätietoja hääkuljetuksesta sekä majoitusvaihtoehdoista</strong><br>
@@ -29,7 +29,7 @@ edit:
   <br>
     Edellä mainittuihin <strong>Scandic Hotelleihin</strong> on varattavissa huoneita www.scandichotels.fi -sivuston kautta. Käyttämällä varauksen yhteydessä varauskoodia <strong>FIARB</strong> saatte juhlavieraana alennuksen päivän hinnasta. <strong>Scandic Hotelleihin</strong> varaukset viimeistään 14 vuorokautta ennen saapumista.<br>
   <br>
-  Suosittelemme myös seuraamaan hotellien omia tarjouksia hotellien verkkosivuilta.</p>
+  Suosittelemme myös seuraamaan hotellien omia tarjouksia hotellien verkkosivuilta.</p>'
 
 edit:
   - excerpt: '<p class="notice--warning"><strong>17.1.2021<br>
