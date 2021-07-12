@@ -9,7 +9,28 @@ header:
   caption: "**@vilmakaura**"
 intro: 
   - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
-  
+
+edit:
+  - excerpt: '<p class="notice--warning"><strong>12.7.2021<br>
+  <br>
+  Lisätietoja hääkuljetuksesta sekä majoitusvaihtoehdoista</strong><br>
+  <br>
+  <strong>Hääkuljetus</strong><br>
+  Hääkuljetuksen lähtö- ja paluupaikka tulee olemaan Tampereen Tullintorin alueella. Tarkempi lähtöpaikka sekä aikataulu ilmoitetaan erikseen.<br>
+  <br>
+  <strong>Majoitus</strong><br>
+  Hääkuljetuksen lähtö- ja paluupaikan, Tampereen Tullintorin alueen lähistöltä löytyvät mm. seuraavat hotellit:<br>
+  - Original Sokos Hotel Villa<br>
+  - Solo Sokos Hotel Torni Tampere<br>
+  - Scandic Tampere City<br>
+  - Scandic Tampere Station<br>
+  <br>
+  Edellä mainittuihin <strong>Sokos Hotelleihin</strong> on varattavissa huoneita www.sokoshotels.fi -sivuston kautta. Käyttämällä varauksen yhteydessä varauskoodia <strong>CELEBRATION</strong> saatte juhlavieraana -5 % alennuksen päivän hinnasta.<br>
+  <br>
+    Edellä mainittuihin <strong>Scandic Hotelleihin</strong> on varattavissa huoneita www.scandichotels.fi -sivuston kautta. Käyttämällä varauksen yhteydessä varauskoodia <strong>FIARB</strong> saatte juhlavieraana alennuksen päivän hinnasta. <strong>Scandic Hotelleihin</strong> varaukset viimeistään 14 vuorokautta ennen saapumista.<br>
+  <br>
+  Suosittelemme myös seuraamaan hotellien omia tarjouksia hotellien verkkosivuilta.</p>
+
 edit:
   - excerpt: '<p class="notice--warning"><strong>17.1.2021<br>
   <br>
@@ -49,7 +70,7 @@ haainfo:
 
   ## Yhteiskyytiä vailla?
 
-  <span style="color:#B87333">Järjestämämme yhteiskyyti lähtee Tampereen keskustasta Rautatieaseman lähistöltä klo 13. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä. Yhteiskuljetukseen ilmoittautuneille ilmoitetaan kuljetuksen tarkempi lähtöpaikka yksityiskohtien varmistuttua.</span>
+  <span style="color:#B87333">Järjestämämme yhteiskyyti lähtee Tampereen keskustasta Tullintorin alueelta klo 13. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä. Yhteiskuljetukseen ilmoittautuneille ilmoitetaan kuljetuksen tarkempi lähtöpaikka yksityiskohtien varmistuttua.</span>
 
   ## Tulossa omalla autolla?
 
