@@ -10,6 +10,18 @@ header:
 intro: 
   - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
 
+edit3:
+  - excerpt: '<p class="notice--warning"><strong>24.8.2021</strong><br>
+  <br>
+  <strong>Moi!</strong><br>
+  Koronavirustartuntamäärät ovat harmittavasti olleet koholla häidemme alla.
+  Asiaa pohdittuamme olemme kuitenkin päättäneet pitää kiinni jo kertaalleen siirretystä juhlapäivästä tarvittavat terveysturvallisuusjärjestelyt huomioiden.
+  Teemme parhaamme huomioidaksemme vallitsevan tilanteen kaikissa järjestelyissä ja seuraamme tautitilanteen kehittymistä edelleen.
+  Mikäli uusia rajoituksia asetetaan, teemme tarvittaessa muutoksia suunnitelmiimme nopeallakin varoitusajalla.
+  Ymmärrämme täysin, mikäli koette juhliin osallistumisen epämukavaksi nykyisen tilanteen vallitessa.
+  Toivomme, että ilmoitatte osallistumisestanne juhliimme sunnuntaihin 29.8.2021 mennessä, jotta voimme huomioida osallistumisenne juhlajärjestelyissä.
+  Terveisin Heidi & Anssi</p>'
+
 edit2:
   - excerpt: '<p class="notice--warning"><strong>12.7.2021<br>
   <br>
@@ -108,6 +120,7 @@ haainfo:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="edit3" type="center" %}
 {% include feature_row id="edit2" type="center" %}
 {% include feature_row id="edit" type="center" %}
 {% include feature_row id="aikataulu" type="center" %}
