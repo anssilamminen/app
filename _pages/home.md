@@ -20,7 +20,7 @@ edit3:
   Mikäli uusia rajoituksia asetetaan, teemme tarvittaessa muutoksia suunnitelmiimme nopeallakin varoitusajalla.<br>
   Ymmärrämme täysin, mikäli koette juhliin osallistumisen epämukavaksi nykyisen tilanteen vallitessa.<br>
   Toivomme, että ilmoitatte osallistumisestanne juhliimme sunnuntaihin 29.8.2021 mennessä, jotta voimme huomioida osallistumisenne juhlajärjestelyissä.<br>
-  Ilmoitattehan samalla mahdollisista erikoisruokavalioistanne sekä osallistumisestanne yhteiskuljetukseen.<br>
+  Ilmoitattehan samalla mahdollisista erityisruokavalioistanne sekä osallistumisestanne yhteiskuljetukseen.<br>
   <br>
   Terveisin Heidi & Anssi</p>'
 
