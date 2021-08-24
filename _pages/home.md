@@ -13,13 +13,12 @@ intro:
 edit3:
   - excerpt: '<p class="notice--warning"><strong>24.8.2021</strong><br>
   <br>
-  <strong>Moi!</strong><br>
-  Koronavirustartuntamäärät ovat harmittavasti olleet koholla häidemme alla.
-  Asiaa pohdittuamme olemme kuitenkin päättäneet pitää kiinni jo kertaalleen siirretystä juhlapäivästä tarvittavat terveysturvallisuusjärjestelyt huomioiden.
-  Teemme parhaamme huomioidaksemme vallitsevan tilanteen kaikissa järjestelyissä ja seuraamme tautitilanteen kehittymistä edelleen.
-  Mikäli uusia rajoituksia asetetaan, teemme tarvittaessa muutoksia suunnitelmiimme nopeallakin varoitusajalla.
-  Ymmärrämme täysin, mikäli koette juhliin osallistumisen epämukavaksi nykyisen tilanteen vallitessa.
-  Toivomme, että ilmoitatte osallistumisestanne juhliimme sunnuntaihin 29.8.2021 mennessä, jotta voimme huomioida osallistumisenne juhlajärjestelyissä.
+  Koronavirustartuntamäärät ovat harmittavasti olleet koholla häidemme alla.<br>
+  Asiaa pohdittuamme olemme kuitenkin päättäneet pitää kiinni jo kertaalleen siirretystä juhlapäivästä tarvittavat terveysturvallisuusjärjestelyt huomioiden.<br>
+  Teemme parhaamme huomioidaksemme vallitsevan tilanteen kaikissa järjestelyissä ja seuraamme tautitilanteen kehittymistä edelleen.<br>
+  Mikäli uusia rajoituksia asetetaan, teemme tarvittaessa muutoksia suunnitelmiimme nopeallakin varoitusajalla.<br>
+  Ymmärrämme täysin, mikäli koette juhliin osallistumisen epämukavaksi nykyisen tilanteen vallitessa.<br>
+  Toivomme, että ilmoitatte osallistumisestanne juhliimme sunnuntaihin 29.8.2021 mennessä, jotta voimme huomioida osallistumisenne juhlajärjestelyissä.<br>
   Terveisin Heidi & Anssi</p>'
 
 edit2:
