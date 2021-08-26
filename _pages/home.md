@@ -30,7 +30,7 @@ edit2:
   Lisätietoja hääkuljetuksesta sekä majoitusvaihtoehdoista</strong><br>
   <br>
   <strong>Hääkuljetus</strong><br>
-  Hääkuljetuksen lähtö- ja paluupaikka tulee olemaan Tampereen Tullintorin alueella. Tarkempi lähtöpaikka sekä aikataulu ilmoitetaan erikseen.<br>
+  Hääkuljetuksen lähtö- ja paluupaikka tulee olemaan Tampereen Tullintorin alueella. Tarkempi lähtö- ja paluupaikka sekä aikataulu ilmoitetaan erikseen.<br>
   <br>
   <strong>Majoitus</strong><br>
   Hääkuljetuksen lähtö- ja paluupaikan, Tampereen Tullintorin alueen lähistöltä löytyvät mm. seuraavat hotellit:<br>
@@ -84,7 +84,7 @@ haainfo:
 
   ## Yhteiskyytiä vailla?
 
-  <span style="color:#B87333">Järjestämämme yhteiskyyti lähtee Tampereen keskustasta Tullintorin alueelta klo 13. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä. Yhteiskuljetukseen ilmoittautuneille ilmoitetaan kuljetuksen tarkempi lähtöpaikka yksityiskohtien varmistuttua.</span>
+  <span style="color:#B87333">Järjestämämme yhteiskyyti lähtee Tampereen keskustasta Tullintorin alueelta klo 13. Paluukyyti juhlapaikalta Tampereen Tullintorin alueelle lähtee juhlien päätyttyä. Ilmoitattehan osallistumisenne yhteiskyytiin juhlaan ilmoittautumisen yhteydessä. Yhteiskuljetukseen ilmoittautuneille ilmoitetaan kuljetuksen tarkempi lähtö- ja paluupaikka yksityiskohtien varmistuttua.</span>
 
   ## Tulossa omalla autolla?
 
