@@ -10,6 +10,22 @@ header:
 intro: 
   - excerpt: '<span style="color:#B87333">**Tervetuloa meidän sivuille! Täältä löydät kaiken tarpeellisen sekä ajankohtaisen tiedon hääjuhlaamme liittyen.**</span>'
 
+edit4:
+  - excerpt: '<p class="notice--warning"><strong>17.9.2021</strong><br>
+  <br>
+  <strong>Hääjuhla lähestyy</strong><br>
+  <br>
+  Pyydämme teitä huomioimaan kirkossa voimassa olevan maskisuosituksen. Toivomme turvallista hääjuhlaa kaikille osallistujille.<br>
+  <br>
+  <strong>Yhteiskuljetus</strong><br>
+  <br>
+  Lähtöaika: *18.9.2021 klo 13.15*<br>
+  Lähtöpaikka: *Tullikamarin aukio*<br>
+  *Paluukuljetus:*<br>
+  Lähtöaika: *19.9.2021 klo 02.00*<br>
+  Paluupaikka: *Tullikamarin aukio*<br>
+  </p>'
+
 edit3:
   - excerpt: '<p class="notice--warning"><strong>24.8.2021</strong><br>
   <br>
@@ -122,6 +138,7 @@ haainfo:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="edit4" type="center" %}
 {% include feature_row id="edit3" type="center" %}
 {% include feature_row id="edit2" type="center" %}
 {% include feature_row id="edit" type="center" %}
