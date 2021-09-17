@@ -19,11 +19,11 @@ edit4:
   <br>
   <strong>Yhteiskuljetus</strong><br>
   <br>
-  Lähtöaika: *18.9.2021 klo 13.15*<br>
-  Lähtöpaikka: *Tullikamarin aukio*<br>
-  *Paluukuljetus:*<br>
-  Lähtöaika: *19.9.2021 klo 02.00*<br>
-  Paluupaikka: *Tullikamarin aukio*<br>
+  Lähtöaika: <strong>18.9.2021 klo 13.15</strong><br>
+  Lähtöpaikka: <strong>Tullikamarin aukio</strong><br>
+  <strong>Paluukuljetus</strong><br>
+  Lähtöaika: <strong>19.9.2021 klo 02.00</strong><br>
+  Paluupaikka: <strong>Tullikamarin aukio</strong><br>
   </p>'
 
 edit3:
