@@ -17,11 +17,11 @@ edit4:
   <br>
   Pyydämme teitä huomioimaan kirkossa voimassa olevan maskisuosituksen. Toivomme turvallista hääjuhlaa kaikille osallistujille.<br>
   <br>
-  <strong>Yhteiskuljetus</strong><br>
+  <strong>Yhteiskuljetus kirkolle</strong><br>
   Lähtöaika: <strong>18.9.2021 klo 13.15</strong><br>
   Lähtöpaikka: <strong>Tullikamarin aukio</strong><br>
   <br>
-  Paluukuljetus<br>
+  <strong>Paluukuljetus Tampereelle</strong><br>
   Lähtöaika: <strong>19.9.2021 klo 02.00</strong><br>
   Paluupaikka: <strong>Tullikamarin aukio</strong><br>
   </p>'
